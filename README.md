@@ -7,8 +7,11 @@ Follow the steps on google to setup your project with firebase
 It uses Google Cloud Firebase as storage for images received and being sent to this app. In the server side the image stored in firebase is used for encryption or decryption as per requirement.It does not require any php code, just adding the project to firebase is enough. 
 
 •	The app fetches the image from the folder of the mobile phone.
+
 •	The image is sent to Google Cloud Firebase to be stored there.
+
 •	On server side the image is converted to grayscale format.
+
 •	A predefined rule list contains the rules to be applied to each pixel value.
 •	The rules of cellular automata are applied to each pixel value for a certain number of cycles( i.e. till encryption is achieved)
 •	This encrypted image is then stored in Firebase.
