@@ -27,6 +27,7 @@ It uses Google Cloud Firebase as storage for images received and being sent to t
 
 # 2)	 KIVY APP :
 App using kivy:
+
 •	The app fetches the image from the folder of the mobile phone.
 
 •	The image is converted to grayscale format.
