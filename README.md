@@ -1,7 +1,10 @@
 # Image-encryption-decryption-app-using-cellular-automata
  
 Here we have two different apps using cellular automata for image encryption and decryption. Image is taken from the mobile phone's gallery.
-Follow the steps on google to setup your project with firebase
+
+Follow the steps on given website to setup your project with firebase-
+https://firebase.google.com/docs/android/setup
+
 
 # 1)	IMAGE EN-DECRYPTION APP (This app has been made in ANDROID STUDIO):  
 It uses Google Cloud Firebase as storage for images received and being sent to this app. In the server side the image stored in firebase is used for encryption or decryption as per requirement.It does not require any php code, just adding the project to firebase is enough. 
