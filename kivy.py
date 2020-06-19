@@ -335,3 +335,5 @@ def showDecryptedImage():
     popupWindow.open()
 
 encryptApp().run()
+
+encryptApp().run()
